@@ -70,14 +70,19 @@ user_groups:
 - Visitors
 ---
 
-I'm a Researcher in the [MobS Lab](https://ict.fbk.eu/units/mobs/) at the [Center for Information and Communication Technology](https://ict.fbk.eu/) of the Fondazione Bruno Kessler in Trento (IT).
+I'm a Researcher in the [MobS Lab](https://ict.fbk.eu/units/mobs/) at the [Center for Information and Communication Technology](https://ict.fbk.eu/) of the 
+Fondazione Bruno Kessler in Trento (IT).
 
-I work with the [RSDE](https://ict.fbk.eu/units/rsde/) and [DCL](https://ict.fbk.eu/units/dcl/) labs to develope Machine Learning solutions and algorithms for the exploitation of different data sources and modeling techniques within the "City Sensing" project.
+I work with the [RSDE](https://ict.fbk.eu/units/rsde/) and [DCL](https://ict.fbk.eu/units/dcl/) labs to develop Machine Learning solutions and algorithms for 
+the exploitation of different data sources and modeling techniques within the "City Sensing" project.
 
-I'm also a junior partecipating researcher in the Cluster of Excellence [Data-integrated Simulation Science](https://www.simtech.uni-stuttgart.de/en/), where I'm a member of the Project Network [Machine Learning for Simulation](https://www.simtech.uni-stuttgart.de/en/research/networks/6/).
+I'm also a junior participating researcher in the Cluster of Excellence [Data-integrated Simulation Science](https://www.simtech.uni-stuttgart.de/en/), where 
+I'm a member of the Project Network [Machine Learning for Simulation](https://www.simtech.uni-stuttgart.de/en/research/networks/6/).
 
-Previously, I've been for four years in the [group of Bernard Haasdonk](https://www.ians.uni-stuttgart.de/anm/) at the University of Stuttgart, working on kernel based algorithms and their application to the surrogate modelling of complex simulations.
+Previously, I've been for four years in the [group of Bernard Haasdonk](https://www.ians.uni-stuttgart.de/anm/) at the University of Stuttgart, working on 
+kernel based algorithms and their application to the surrogate modeling of complex simulations.
 
-I obtained my MSc and PhD at the Department of Mathematics of the University of Padova under the supervision of Stefano De Marchi in the [CAA group](https://www.math.unipd.it/~marcov/CAA.html), where I wrote my theses on algorithmic and theoretical aspects of kernel based interpolation.
+I obtained my MSc and PhD at the Department of Mathematics of the University of Padova under the supervision of Stefano De Marchi in the [CAA 
+group](https://www.math.unipd.it/~marcov/CAA.html), where I wrote my theses on algorithmic and theoretical aspects of kernel based interpolation.
 
 
